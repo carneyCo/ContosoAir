@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/codecarney/ContosoAirDO/_apis/build/status/carneyCo.ContosoAir?branchName=master)](https://dev.azure.com/codecarney/ContosoAirDO/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
